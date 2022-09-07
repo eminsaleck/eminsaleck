@@ -15,8 +15,9 @@ iOS enthusiast. I'm actively learning new technologies and developing personal p
 <img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 </p>
 
+<p align="center">
 ## Connect
-
+</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/eminsaleck1001/" target="_blank"> 
    <img align="" alt="Leonardo's LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
