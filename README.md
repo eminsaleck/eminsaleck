@@ -4,6 +4,9 @@
 
 iOS enthusiast. I'm actively learning new technologies and developing personal projects.
 
+
+>Please, give me a feedback on my The Movie DataBase project
+
 ## Technologies
 <p>
 <img height="30" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
@@ -16,3 +19,5 @@ iOS enthusiast. I'm actively learning new technologies and developing personal p
 <a href="https://www.linkedin.com/in/eminsaleck1001/" target="_blank"> 
   <img align="" alt="Leonardo's LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
 </a> &nbsp;
+
+
