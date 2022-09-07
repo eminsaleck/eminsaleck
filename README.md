@@ -18,17 +18,10 @@ iOS enthusiast. I'm actively learning new technologies and developing personal p
 ## Connect
 
 <p align="center">
+    <a href="https://www.linkedin.com/in/eminsaleck1001/" target="_blank"> 
+   <img align="" alt="Leonardo's LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
     <a href="mailto:contact@iamludal.fr">
         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/iamludal">
-        <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://discordapp.com/users/256769299954401280">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href="https://iamludal.fr">
-        <img src="https://svgshare.com/i/fDu.svg" />
     </a>
 </p>
 
