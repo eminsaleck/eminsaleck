@@ -17,12 +17,7 @@ iOS enthusiast. I'm actively learning new technologies and developing personal p
 
 
 ## Connect
-
-
-    <a href="https://www.linkedin.com/in/eminsaleck1001/" target="_blank"> 
-    <img align="" alt="Leonardo's LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
-    <a href="mailto:lemin08@gmail.com">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-icon.svg" />
-    </a>
-
+ <a href="https://www.linkedin.com/in/eminsaleck1001/" target="_blank"> 
+   <img align="" alt="Emin's LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
+ </a> &nbsp;
 
