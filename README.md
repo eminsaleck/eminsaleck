@@ -5,7 +5,7 @@
 iOS enthusiast. I'm actively learning new technologies and developing personal projects.
 
 
->Please, give me a feedback on my The Movie DataBase project.
+>Please, give me a feedback on my "The Movie DataBase" project in pinned.
 
 ## Technologies
 <p>
