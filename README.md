@@ -16,10 +16,10 @@ Swift, UIKit, MVC, MVP, Design Patterns, Core Data, Git, API, Autolayout, SnapKi
 <a href="mailto:lemin08@gmail.com" target="_blank"> 
    <img align="" alt="Emin's LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> 
  </a> &nbsp;
- 
-
-
-
+ <br>
+<br>
+<br>
+<br>
 
 > ## **Please, give me a feedback on my "The Movie Database" project in pinned.**
 
