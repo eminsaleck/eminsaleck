@@ -21,8 +21,8 @@ Swift, UIKit, MVC, MVP, Design Patterns, Core Data, Git, API, Autolayout, SnapKi
 <br>
 <br>
 
-> ## **Please, give me a feedback on my "The Movie Database" project in pinned.**
-##👇
+> ## **👇Please, give me a feedback on my "The Movie Database" project in pinned.**
+
 
 
 
