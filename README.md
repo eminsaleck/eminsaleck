@@ -5,7 +5,7 @@
 iOS enthusiast. I'm actively learning new technologies and developing personal projects.
 
 
-> ## **Please, give me a feedback on my "The Movie Database" project in pinned.**
+> ## **<p style="color:red">Please, give me a feedback on my "The Movie Database" project in pinned.**</p>
 
 ## **Skills**
 <p>
