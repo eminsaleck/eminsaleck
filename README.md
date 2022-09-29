@@ -6,7 +6,7 @@ iOS enthusiast. I'm actively learning new technologies and developing personal p
 
 ## **Skills**
 <p>
-Swift, UIKit, MVC, MVP, Design Patterns, Core Data, Git, API, Autolayout, Lottie
+Swift, UIKit, MVC, MVVM, Design Patterns, Core Data, Git, API, Autolayout, Lottie, SnapKit, Combine
 </p>
 
 ## **Connect**
