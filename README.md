@@ -21,7 +21,7 @@ Swift, UIKit, MVVM, Design Patterns, Core Data, Git, API, Autolayout, Lottie, Rx
 <br>
 <br>
 
-> ## **👇Please, give me a feedback on my "The Movie DB" project in pinned.**
+> ## **🙏 Please, give me a feedback on my projects in pinned👇 .**
 
 
 
