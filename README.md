@@ -6,8 +6,12 @@ iOS enthusiast. I'm actively learning new technologies and developing personal p
 
 ## **Skills**
 <p>
-Swift, UIKit, MVVM, Design Patterns, Core Data, Git, API, Autolayout, Lottie, RxSwift, Realm
+Swift, UIKit, MVVM+C, Design Patterns, Core Data, Git, API, Autolayout, Lottie, Combine, Realm
 </p>
+
+## **📖 I read**
+1. Advanced Swift (Chris Eidhof and Ole Begemann) - objc.io
+2. App Architecture (Chris Eidhof and Ole Begemann) - objc.io
 
 ## **Connect**
  <a href="https://www.linkedin.com/in/eminsaleck1001/" target="_blank"> 
