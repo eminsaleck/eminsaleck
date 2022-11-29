@@ -1,10 +1,10 @@
 
 
-## **Emin Saleck** 🇺🇦
+## **🇺🇦 Emin Saleck** 
 
 iOS enthusiast. I'm actively learning new technologies and developing personal projects.
 
-## **Skills**
+## **🔧 Skills**
 <p>
 Swift, UIKit, MVVM+C, Design Patterns, Core Data, Git, API, Autolayout, Lottie, Combine, Realm
 </p>
