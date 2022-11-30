@@ -12,7 +12,6 @@ Swift, UIKit, MVVM+C, Design Patterns, Core Data, Git, API, Autolayout, Lottie, 
 ## **📖 I read**
 1. Advanced Swift (Chris Eidhof and Ole Begemann) - objc.io
 2. App Architecture (Chris Eidhof and Ole Begemann) - objc.io
-3. Medium articles
 
 ## **Connect**
  <a href="https://www.linkedin.com/in/eminsaleck1001/" target="_blank"> 
