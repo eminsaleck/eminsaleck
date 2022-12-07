@@ -25,7 +25,6 @@ Swift, UIKit, MVVM+C, Design Patterns, Core Data, Git, API, Autolayout, Lottie, 
 <br>
 <br>
 <br>
-
 > ## **🙏 Please, give me a feedback on my projects in pinned👇 .**
 
 
