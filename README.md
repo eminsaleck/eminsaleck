@@ -13,6 +13,7 @@ Swift, UIKit, MVVM+C, Design Patterns, Core Data, Git, API, Autolayout, Lottie, 
 1. Advanced Swift (Chris Eidhof and Ole Begemann) - objc.io
 2. App Architecture (Chris Eidhof and Ole Begemann) - objc.io
 
+
 ## **Connect**
  <a href="https://www.linkedin.com/in/eminsaleck1001/" target="_blank"> 
    <img align="" alt="Emin's LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
