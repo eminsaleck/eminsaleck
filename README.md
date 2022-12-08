@@ -6,7 +6,7 @@ iOS enthusiast. I'm actively learning new technologies and developing personal p
 
 ## **🔧 Skills**
 <p>
-Swift, UIKit, Clean, MVVM+C, Design Patterns, Core Data, Git, API, Autolayout, Lottie, Combine, RxSwift, Realm, Unit-testing
+Swift, UIKit, Clean, MVVM+C, Design Patterns, Core Data, Git, API, Autolayout, Lottie, Combine, RxSwift, Realm, Unit-testing, SPM
 </p>
 
 ## **📖 I read**
