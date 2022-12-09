@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🇺🇦%20I%27m%20Emin%20Saleck%F0%9F%8C%A9&animation=twinkling&fontSize=40)
 
-## **🇺🇦 Emin Saleck** 
-
 iOS enthusiast. I'm actively learning new technologies and developing personal projects.
 
 ## **🔧 Skills**
@@ -25,7 +23,6 @@ Swift, UIKit, Clean, MVVM+C, Design Patterns, Core Data, Git, API, Autolayout, L
 <br>
 <br>
 
-> ## **🙏 Please, give me a feedback on my projects in pinned👇 .**
 
 
 
