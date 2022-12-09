@@ -22,9 +22,3 @@ Swift, UIKit, Clean, MVVM+C, Design Patterns, Core Data, Git, API, Autolayout, L
  <br>
 <br>
 <br>
-
-
-
-
-
-
